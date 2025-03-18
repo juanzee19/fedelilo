@@ -1,0 +1,47 @@
+___Problema A___
+
+-Ingresar el monto y mostrar el más caro
+-Si hay 2 o más, mostrar ámbos
+-Indicar el vuelto
+
+a- 3 chicos de 23 años perfectamente normales entran a una heladeria
+a comprar un helado pero hay un problema: los precios no estan al lado
+de cada estante con su respectivo helado.
+
+Ellos quieren comprar el helado mas caro que puedam con la plata que 
+tienen, asi que... veamos como podemos ayudarlos.
+
+roberto tiene $1.5 usd
+pedro tiene $1.7 usd
+cofla tiene 3usd
+
+los precios de los helados son los siguientes: 
+Palito de helado de agua: $0.6 usd
+Palito de helado de crema: $1 usd
+Bombón helado marca heladix: $1.6 usd
+Bombón helado marca heladovich: 1.7 usd
+Bombón helado marca helardo: $1.8 usd
+Potecito de helado con confites : $2.9 usd
+pote de 1/4 KG: $2.9usd
+
+        -CREAR SOLUCIONES
+        -pedirles que ingresen el monto que tienen y mostrarles 
+        el helado mas caro que puedan comprar
+        
+        -Si hay 2 o más con el mismo precio, mostrar ambos
+
+        -cofla quiere saber cuanto es el vuelto
+
+___Problema B___
+
+-Si le alcanza uno, lo compra
+-Si le alcanza dos, compra dos
+-Si le alcanza tre y sobra, regala el vuelto
+-Debe mostrar que compró y el vuelto
+
+___Problema C___
+
+-Si miente le da una descarga
+-Si no miente, no hacer nada
+-Si el aparato no se decicde, aclarar 
+que la pregunta debe ser más clara
